@@ -1,0 +1,14 @@
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\bin\Debug\netstandard2.0\MoodPlay.deps.json
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\bin\Debug\netstandard2.0\MoodPlay.dll
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\bin\Debug\netstandard2.0\ref\MoodPlay.dll
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\bin\Debug\netstandard2.0\MoodPlay.pdb
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.csprojAssemblyReference.cache
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.AssemblyInfoInputs.cache
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.AssemblyInfo.cs
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.csproj.CoreCompileInputs.cache
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.dll
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\ref\MoodPlay.dll
+C:\Users\lauro\source\repos\MoodPlay\MoodPlay\obj\Debug\netstandard2.0\MoodPlay.pdb

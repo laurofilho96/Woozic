@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MoodPlay.MainPage">
+    
+    <StackLayout Margin="10">
+
+        
+        <!-- Place new controls here -->
+        <Label Text="Welcome to MoodPlay!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <!--Nome do Usuário-->
+        <Label Text="Name"/>
+        <Entry x:Name="Name"/>
+        <Label x:Name="NameMsg" Style="{StaticResource ValidationMessage}" Text="Digite seu nome."/>
+
+        <!--Email do Usuário-->
+        <Label Text="Email"/>
+        <Entry x:Name="Email"/>
+        <Label x:Name="EmailMsg" Style="{StaticResource ValidationMessage}" Text="Digite seu email."/>
+
+        <!--Senha do Usuário-->
+        <Label Text="Password"/>
+        <Entry IsPassword="True" x:Name="Password"/>
+        <Label x:Name="PasswordMsg" Style="{StaticResource ValidationMessage}" Text="Digite sua senha. Ela deve conter no mínimo 6 caracteres."/>
+
+        <!--Botão de Submeter-->
+        <Button Text="Enviar" VerticalOptions="EndAndExpand"/>
+
+    </StackLayout>
+
+    
+</ContentPage>
+
+
